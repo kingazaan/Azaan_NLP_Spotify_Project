@@ -1,0 +1,19 @@
+Music to go with reading
+	Using Spotify API
+	Spotify has a lot of tags
+
+CHeck out vectorizing words
+Datasets online for genres of text
+Tokenize words into vectors
+	Need train data on good text with sentiment
+
+Bag of words approach
+Query music by emotion
+make own tags
+
+1. getting own tag
+2. From tag, get song
+
+Text content from pdfs (Spacey is used to get text from any images)
+Get tags for genres of books 
+Use a neural net to have it determine which emotions work the best
